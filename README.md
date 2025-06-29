@@ -14,16 +14,16 @@
 ## 📸 Preview
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Rohitsaw6207/HitroChat/main/frontend/public/1001.png" width="45%" />
-  <img src="https://raw.githubusercontent.com/Rohitsaw6207/HitroChat/main/frontend/public/1002.png" width="45%" />
+  <img src="https://github.com/Rohitsaw6207/Hitro-Chat/blob/main/frontend/public/1001.png" width="45%" />
+  <img src="https://github.com/Rohitsaw6207/Hitro-Chat/blob/main/frontend/public/1002.png" width="45%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Rohitsaw6207/HitroChat/main/frontend/public/1003.png" width="30%" />
-  <img src="https://raw.githubusercontent.com/Rohitsaw6207/HitroChat/main/frontend/public/1004.png" width="30%" />
-  <img src="https://raw.githubusercontent.com/Rohitsaw6207/HitroChat/main/frontend/public/1005.png" width="30%" />
+  <img src="https://github.com/Rohitsaw6207/Hitro-Chat/blob/main/frontend/public/1003.png" width="30%" />
+  <img src="https://github.com/Rohitsaw6207/Hitro-Chat/blob/main/frontend/public/1004.png" width="30%" />
+  <img src="https://github.com/Rohitsaw6207/Hitro-Chat/blob/main/frontend/public/1005.png" width="30%" />
 </div>
 
 
